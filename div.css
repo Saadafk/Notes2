@@ -1,10 +1,10 @@
 h2{
     color: #f1f1f1;
-    font-size: 50px;
+    font-size: 40px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin-left: -120px;
+    margin-left: -80px;
     margin-right: -150px;
-    padding: 0%;
+    padding-top:20px;
 }
 #icon{
     width: 37px ;
@@ -18,11 +18,11 @@ h2{
     border: hidden;
     width: 300px;
     padding: 18%;
-    background-color: rgb(39, 39, 39);
+    background-color: hsl(0, 0%, 18%);
     margin: auto;
-    margin-top: 10%;
-    padding-top:1px;
-    padding-bottom: 45px;
+    margin-top: 5.5%;
+    padding-top: 0px;
+    padding-bottom: 15px;
 
 
 }
@@ -77,7 +77,7 @@ p{
 list-style-type: none;
 padding: 10px;
 margin-top: 0px;
-background-color: rgb(53, 52, 52);
+background-color: hsl(0, 0%, 18%);
 overflow: hidden;
 margin-left: 630px;
 border-radius: 11px;
@@ -87,7 +87,7 @@ margin-right: 672px;
 display: block;
 margin-left: 0px;
 text-decoration: none;
-font-size: 27px;
+font-size: 17px;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 padding: 15px;
 color: aliceblue;
@@ -106,7 +106,6 @@ h3{
     font-size: 50px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
-    margin-top: 14%;
     
 }
 
